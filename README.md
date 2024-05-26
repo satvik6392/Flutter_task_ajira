@@ -7,3 +7,6 @@
  * Start emulator or physical device
  * Run `flutter run` to run app in debug mode
  * Run `flutter build apk` and `flutter install` to install the release apk.
+
+
+> To install app directly change to branch apk-1 and download apk 
